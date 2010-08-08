@@ -1,0 +1,2 @@
+def listaDimencoes(lista):
+	pass
